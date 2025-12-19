@@ -8,5 +8,4 @@ This folder contains all setup steps for Go.
 - 03-editor-setup.md
 - 04-go-commands.md
 - 05-environment-variables.md
-- 06-first-program.md
-- 07-troubleshooting.md
+
