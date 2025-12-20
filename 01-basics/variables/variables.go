@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func variables() {
+func main() {
 	// 1. Variable declaration with type
 	var a int = 10
 	var name string = "Madhav"
