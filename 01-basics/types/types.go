@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func types() {
+func main() {
 	// Integer types
 	var a int = 10
 	var b int8 = 100

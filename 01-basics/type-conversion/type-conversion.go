@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func type_conversion() {
+func main() {
 	var a int = 10
 	var b float64 = 3.5
 
